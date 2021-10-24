@@ -9,7 +9,7 @@ using namespace std;
 int main (int argc, char** argv){
 
     /*
-    * Update line 4 - 18 according your implementation, you should initialize the automaton first.
+    * Update line 14 - 18 according your implementation, you should initialize the automaton first.
     */
     // string Q[] = {"q0","q1","q2"};
     // string F[] = {"q0"};
